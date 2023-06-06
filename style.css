@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.my_class{
+  font: 1em sans-serif;
+}
+.my_class2{
+    color: green;
+}
